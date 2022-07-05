@@ -1,0 +1,12 @@
+{
+  "name": "aula-npm",
+  "version": "1.0.0",
+  "description": "Iniciando com nodejs e npm",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Ribeiro",
+  "license": "MIT"
+}
